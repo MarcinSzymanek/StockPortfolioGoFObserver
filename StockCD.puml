@@ -1,0 +1,64 @@
+@startuml
+
+scale 2
+interface IStock{
+    GetValue() : double
+    GetName() : string
+    GetAmount() : int
+}
+
+interface ISubjectStock{
+    AttachObserver(IStockObserver o) : void
+    DetachObserver(IStockObserver o) : void
+    NotifyObservers(string name, double val) : void
+}
+
+interface IStockObserver{
+    + Notify(string name, double val) : void
+}
+
+class Stock{
+    - _value : double
+    - _name : string
+    - _amount : int
+    - UpdateValue() : void
+    + AttachObserver() : void
+    + DetachObserver() : void
+}
+
+class OwnedStock{
+    - _name : string
+    - _value : double
+    - _ownedAmount : int
+    + UpdateValue() : void
+    + UpdateAmount() : void
+}
+
+
+class Portfolio{
+    + AddStock(string name, double val, int amount) : void
+    - _ownedStocks : List<OwnedStock>
+    - updateStock(string name, double val, int amount) : void
+    
+}
+
+class PortfolioDisplay{
+    + UpdateDisplay() : void
+}
+
+class PortfolioManager{
+    - Portfolio _portfolio
+    - PortfolioDisplay _display
+    + Notify(string name, double val) : void
+}
+
+PortfolioManager ..> Portfolio
+PortfolioManager ..> PortfolioDisplay
+OwnedStock <.. Portfolio
+ISubject ..> IStockObserver
+IStockObserver <|.. Portfolio
+IStock <|.. Stock
+ISubject <|.. Stock
+IStock <|.. OwnedStock
+@enduml
+

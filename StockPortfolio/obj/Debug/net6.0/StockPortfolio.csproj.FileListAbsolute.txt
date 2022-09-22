@@ -1,0 +1,15 @@
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\StockPortfolio\StockPortfolio\StockPortfolio\bin\Debug\net6.0\StockPortfolio.exe
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\StockPortfolio\StockPortfolio\StockPortfolio\bin\Debug\net6.0\StockPortfolio.deps.json
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\StockPortfolio\StockPortfolio\StockPortfolio\bin\Debug\net6.0\StockPortfolio.runtimeconfig.json
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\StockPortfolio\StockPortfolio\StockPortfolio\bin\Debug\net6.0\StockPortfolio.dll
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\StockPortfolio\StockPortfolio\StockPortfolio\bin\Debug\net6.0\StockPortfolio.pdb
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\StockPortfolio\StockPortfolio\StockPortfolio\obj\Debug\net6.0\StockPortfolio.csproj.AssemblyReference.cache
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\StockPortfolio\StockPortfolio\StockPortfolio\obj\Debug\net6.0\StockPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\StockPortfolio\StockPortfolio\StockPortfolio\obj\Debug\net6.0\StockPortfolio.AssemblyInfoInputs.cache
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\StockPortfolio\StockPortfolio\StockPortfolio\obj\Debug\net6.0\StockPortfolio.AssemblyInfo.cs
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\StockPortfolio\StockPortfolio\StockPortfolio\obj\Debug\net6.0\StockPortfolio.csproj.CoreCompileInputs.cache
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\StockPortfolio\StockPortfolio\StockPortfolio\obj\Debug\net6.0\StockPortfolio.dll
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\StockPortfolio\StockPortfolio\StockPortfolio\obj\Debug\net6.0\refint\StockPortfolio.dll
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\StockPortfolio\StockPortfolio\StockPortfolio\obj\Debug\net6.0\StockPortfolio.pdb
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\StockPortfolio\StockPortfolio\StockPortfolio\obj\Debug\net6.0\StockPortfolio.genruntimeconfig.cache
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\StockPortfolio\StockPortfolio\StockPortfolio\obj\Debug\net6.0\ref\StockPortfolio.dll
